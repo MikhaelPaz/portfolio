@@ -137,6 +137,13 @@ img {
     border-radius: 20px;
 }
 
+.port {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
 footer {
     text-align: center;
     padding: 1rem 0;
